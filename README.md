@@ -8,15 +8,15 @@ Este proyecto es el demo del workshop en _Noches GDG UNAM_, puedes ver el live [
 
 <p align="center">
   <img src="./src/img/presentacion.png" alt="Presentación"
-    width="300" height="150"/>
+    width="250" height="150"/>
  </p>
  <p align="center">
   <img src="./src/img/definicion.png" alt="Definicion"
-    width="300" height="150"/>
+    width="250" height="150"/>
  </p>
  <p align="center">
   <img src="./src/img/conclusiones.png" alt="Conclusiones"
-    width="300" height="150"/>
+    width="250" height="150"/>
  </p>
 
 ## Recursos
