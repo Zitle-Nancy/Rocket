@@ -2,20 +2,20 @@
 
 ## Descripción
 
-Este proyecto es el demo del workshop en 'Noches GDG UNAM', puedes ver el live [aquí](https://www.facebook.com/GDGUNAM/videos/2670004176584311).
+Este proyecto es el demo del workshop en _Noches GDG UNAM_, puedes ver el live [aquí](https://www.facebook.com/GDGUNAM/videos/2670004176584311).
 
 ## Slides
 
 <p align="center">
-  <img src="./src/img/presentacion.png alt="Presentación"
+  <img src="./src/img/presentacion.png" alt="Presentación"
     width="300" height="150"/>
  </p>
  <p align="center">
-  <img src="./src/img/definicion.png alt="Definicion"
+  <img src="./src/img/definicion.png" alt="Definicion"
     width="300" height="150"/>
  </p>
  <p align="center">
-  <img src="./src/img/conclusiones.png alt="Conclusiones"
+  <img src="./src/img/conclusiones.png" alt="Conclusiones"
     width="300" height="150"/>
  </p>
 
@@ -23,6 +23,6 @@ Este proyecto es el demo del workshop en 'Noches GDG UNAM', puedes ver el live [
 
 - [Create react app](https://create-react-app.dev/docs/adding-typescript/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [SpaceX-API] (https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/rockets/all.md)
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/rockets/all.md)
 
 with :heart: Nancy Zitle.
